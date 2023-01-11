@@ -102,3 +102,24 @@ const template = `
 `
 
 export default games;
+
+
+/*
+6games-container.stats-card15
+*/
+
+/*
+11
+yellow
+GAMES_JSON
+
+11seafoamGAMES_JSON
+*/
+
+// 19187800268brain
+
+// 74FLANNELCLICK
+
+// tolocalestring<div>1ivy
+
+// ZOOHOWCEDAR

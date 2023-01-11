@@ -5,6 +5,10 @@ body {
     background-color: #758190;
 }
 
+button{
+    cursor:pointer;
+}
+
 #tentacles {
     width: 50px;
 }
@@ -21,6 +25,10 @@ body {
 
 .stats-container {
     display: flex;
+    cursor:pointer;
+    align-items:center;
+    justify-content: center;
+    box-shadow: 0 0 30px lightblue;
 }
 
 .stats-card {
@@ -43,7 +51,7 @@ body {
 }
 
 .game-img {
-    width: 100%;
+    width:100%;
     border-radius: 5px;
     box-shadow: 0 0 10px #FFFFFF;
 }
@@ -73,3 +81,11 @@ button {
     margin: 1%;
     border-radius: 7px;
 }
+
+/* Bonus */
+
+.clicked{
+    background-color:black;
+    color:white;
+}
+
