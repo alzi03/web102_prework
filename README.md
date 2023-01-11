@@ -23,9 +23,10 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/FUY5voq"  ><a href="//imgur.com/a/FUY5voq">codepath_prework_web102</a></blockquote>
+<img src='https://i.imgur.com/Q95RAdn.mp4 title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with ... [Kap](https://getkap.co/) for macOS
+
+GIF created with [Kap](https://getkap.co/) for macOS
 
 ## Notes
 
